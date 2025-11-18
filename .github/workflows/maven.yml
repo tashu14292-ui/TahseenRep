@@ -48,15 +48,4 @@ jobs:
           publish_branch: gh-pages
           publish_dir: allure-history
           
-      - name: Send Allure Report via Email
-        uses: dawidd6/action-send-mail@v3
-        with:
-          server_address: smtp.gmail.com
-          server_port: 465
-          username: ${{ secrets.EMAIL_USERNAME }}
-          password: ${{ secrets.EMAIL_PASSWORD }}
-          subject: "Allure Test Report - GitHub Actions"
-          to: ${{ secrets.SENDER_EMAIL_USERNAME }}
-          from: ${{ secrets.EMAIL_USERNAME }}
-          body: "visit to: https://letsupgradewithanuj-git.github.io/SDET-L1/ for reports"
-
+  
