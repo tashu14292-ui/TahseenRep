@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2386","Get place","","Tue Nov 18 13:51:36 UTC 2025","passed","Tue Nov 18 13:51:38 UTC 2025","","End to End API testing for Place API","Get place",""
+"","5416","Put place","","Tue Nov 18 13:51:38 UTC 2025","passed","Tue Nov 18 13:51:44 UTC 2025","","End to End API testing for Place API","Put place",""
+"","5215","Delete place","","Tue Nov 18 13:51:44 UTC 2025","passed","Tue Nov 18 13:51:49 UTC 2025","","End to End API testing for Place API","Delete place",""
+"","2538","Add place","","Tue Nov 18 13:51:33 UTC 2025","passed","Tue Nov 18 13:51:36 UTC 2025","","End to End API testing for Place API","Add place",""
